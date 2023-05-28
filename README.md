@@ -3,6 +3,11 @@
 <a href="https://www.linkedin.com/in/remi-moul/">
   <img align="left" alt="remi LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+😄
+
+My name is Remi Moul and I'm passionate about web development. On my GitHub account, you'll find projects I've worked on to improve my programming skills. 
+I've worked with several programming languages such as JavaScript, JAVA, PHP, HTML/CSS, and I'm eager to continue learning more.🌱
+Feel free to explore my projects and provide me with your feedback and suggestions. Thank you for stopping by! ⚡⚡⚡⚡
 
 
 <!--
