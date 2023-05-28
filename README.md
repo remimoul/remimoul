@@ -2,7 +2,8 @@
 
 <a href="https://www.linkedin.com/in/remi-moul/">
   <img align="left" alt="remi LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+</a> 
+</br>
 
 
 <br>
