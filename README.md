@@ -14,7 +14,7 @@ Feel free to explore my projects and provide me with your feedback and suggestio
 </br>
 <img src="https://i.ibb.co/9wpWx6b/code.gif" width="500" height="320"/> 
 </br>
-<code><img height="50" src="https://i.ibb.co/stWSN55/icons8-logo-java-coffee-cup.gif"></code>
+<code><img height="40" src="https://i.ibb.co/stWSN55/icons8-logo-java-coffee-cup.gif"></code>
 
 
 
