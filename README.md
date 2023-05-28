@@ -13,6 +13,10 @@ I've worked with several programming languages such as JavaScript, JAVA, PHP, HT
 Feel free to explore my projects and provide me with your feedback and suggestions. Thank you for stopping by! ⚡⚡⚡⚡<br>
 </br>
 <img src="https://i.ibb.co/9wpWx6b/code.gif" width="500" height="320"/> 
+</br>
+<code><img height="20" src="https://www.flaticon.com/free-icon/java_5968282?term=java&page=1&position=3&origin=search&related_id=5968282"></code>
+
+
 
 <!--
 **remimoul/remimoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
