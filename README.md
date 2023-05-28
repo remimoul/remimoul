@@ -14,9 +14,12 @@ Feel free to explore my projects and provide me with your feedback and suggestio
 </br>
 <img src="https://i.ibb.co/9wpWx6b/code.gif" width="500" height="320"/> 
 </br>
-<code><img height="40" src="https://i.ibb.co/stWSN55/icons8-logo-java-coffee-cup.gif"></code>
+<code><img height="40" src="https://i.ibb.co/phrfKqC/icons8-logo-java-coffee-cup-48.png"></code>
 <code><img height="40" src="https://i.ibb.co/b6qDcbz/icons8-php-40.png"></code>
-
+<code><img height="40" src="https://i.ibb.co/1sS6Qr2/icons8-html-48.png"></code>
+<code><img height="40" src="https://i.ibb.co/ZVw02Qb/icons8-my-sql-48.png"></code>
+<code><img height="40" src="https://i.ibb.co/G236DGG/icons8-javascript-48.png"></code>
+<code><img height="40" src="https://i.ibb.co/C72PWsM/icons8-android-48.png"></code>
 
 <!--
 **remimoul/remimoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
