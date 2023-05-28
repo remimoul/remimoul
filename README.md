@@ -12,7 +12,7 @@ On my GitHub account, you'll find projects I've worked on to improve my programm
 I've worked with several programming languages such as JavaScript, JAVA, PHP, HTML/CSS, and I'm eager to continue learning more.🌱<br>
 Feel free to explore my projects and provide me with your feedback and suggestions. Thank you for stopping by! ⚡⚡⚡⚡<br>
 
-<img src="https://i.ibb.co/9wpWx6b/code.gif" /> 
+<img src="https://i.ibb.co/9wpWx6b/code.gif" width="500" height="320"/> 
 
 <!--
 **remimoul/remimoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
