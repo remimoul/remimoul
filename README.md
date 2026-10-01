@@ -1,10 +1,10 @@
 ### Hi there 👋😄
 
 <br>
-My name is Rémi and I'm passionate about web and mobile development.</br>
-I'm currently a master's student in Paris. On my GitHub account, you'll find projects I've worked on to improve my programming skills. <br>
-I've worked with several programming languages such as JavaScript, JAVA, PHP, HTML/CSS, and I'm eager to continue learning more.🌱<br>
-Feel free to explore my projects and provide me with your feedback and suggestions. Thank you for stopping by! ⚡⚡⚡⚡<br>
+Hi, I'm Rémi! 👋<br>
+I'm a web and mobile developer based in Paris.<br>
+I mainly work with Next.js and TypeScript, and I enjoy building projects that help me sharpen my skills and explore new ideas. 🌱<br>
+Feel free to check out my repositories and share your feedback. Thanks for stopping by! ⚡⚡⚡⚡<br>
 </br>
 <img src="https://i.ibb.co/9wpWx6b/code.gif" width="500" height="320"/> 
 </br>
